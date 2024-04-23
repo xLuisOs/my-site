@@ -1,0 +1,42 @@
+/* Restablecer estilos del navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Cuerpo de la página */
+  body {
+    font-family: sans-serif;
+  }
+  
+  /* Encabezado */
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Título */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Secciones */
+  section {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  /* Enlaces */
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  /* Imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
